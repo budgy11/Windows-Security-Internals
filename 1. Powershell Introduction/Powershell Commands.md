@@ -7,6 +7,7 @@ Update-Module NtObjectManager
 Import-Module NtObjectManager
 ```
 
-## .NET Types
-```
-```
+## Types
+|Type|.NET Type|Example
+|----------|-------------|------------
+|array |System.Object[]|@(1, "abc",True) |
