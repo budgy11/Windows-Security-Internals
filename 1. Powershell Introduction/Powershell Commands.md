@@ -6,7 +6,7 @@ Update-Module NtObjectManager
 
 Import-Module NtObjectManager
 ```
-- use a `` ` `` to escape characters i.e. `` `` `` ``
+- use a `` ` `` to escape characters i.e. `` `r `` or `` `"  ``
 ## Types
 |Type|.NET Type|Example|
 |----------|-------------|------------
@@ -19,6 +19,7 @@ Import-Module NtObjectManager
 "0x{0:X} {1}" -f 42, 123 #0x2A 123
 ```
 
+## Finding Commands
 
 
 
