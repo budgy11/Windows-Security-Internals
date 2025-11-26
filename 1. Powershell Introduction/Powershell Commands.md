@@ -6,7 +6,7 @@ Update-Module NtObjectManager
 
 Import-Module NtObjectManager
 ```
-
+- use a `` ` `` to escape characters i.e. `` `` `` ``
 ## Types
 |Type|.NET Type|Example|
 |----------|-------------|------------
