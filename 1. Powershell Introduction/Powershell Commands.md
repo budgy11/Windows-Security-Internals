@@ -64,9 +64,13 @@ Get-Process | Select-Object * | Out-GridView #output all columns to GUI Window
 ## Filtering, Ordering, and Grouping Objects
 - `Where-Object` is aliased to `Where` and `?`
 
-| Operator  | Description                  |
-| --------- | ---------------------------- |
-| -EQ       | Equal to the value           |
-| -NE       | Not equal to the value       |
-| -Match    | Matches string against regex |
-| -NotMatch |                              |
+| Operator  | Description                               |
+| --------- | ----------------------------------------- |
+| -EQ       | Equal to the value                        |
+| -NE       | Not equal to the value                    |
+| -Match    | Matches string against regex              |
+| -NotMatch | Inverse of Match                          |
+| -Like     | Matches string against a wildcard ("ex*") |
+| -NotLike  | Inverse of Like                           |
+| -GT       | Greater-than comparison                   |
+| -LT       | Less-than comparison                      |
