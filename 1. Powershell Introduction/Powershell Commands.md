@@ -56,5 +56,6 @@ Get-Process | Select-Object Id, ProcessName #filter output
 Get-Process | Format-List #Change formatter from table to list
 Get-Process | Get-Member -Type Property #Finds available properties
 Get-Process | Format-List * #Show all properties in list format
+Get-Process | Get-Member -Type Method #Finds available methods to perform on object
 
 ```
