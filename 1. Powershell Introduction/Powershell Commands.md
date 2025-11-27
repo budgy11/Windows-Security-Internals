@@ -101,3 +101,8 @@ Get-Process | Group-Object ProcessName
 Get-Process | Group-Object ProcessName | Where-Object Count -GT 10 | Sort-Object Count
 ```
 ## Exporting Data
+```powershell
+Get-Process | Out-File processes.txt
+Get-Process > processes.txt
+Gre-Process | Export-Csv processes.csv -NoTypeInformation
+```
