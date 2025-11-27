@@ -97,3 +97,7 @@ Get-Process | Group-Object ProcessName
 ```
 
 ### All together
+```powershell
+Get-Process | Group-Object ProcessName | Where-Object Count -GT 10 | Sort-Object Count
+```
+## Exporting Data
