@@ -43,4 +43,8 @@ function Get-NameValue {
 Get-NameValue -Name "Hello" -Value "World"
 Get-NameValue "Hello" "World"
 ```
-
+### Script Block
+```powershell
+$script = { Write-Output "Hello" }
+& $script
+```
