@@ -48,3 +48,8 @@ Get-NameValue "Hello" "World"
 $script = { Write-Output "Hello" }
 & $script
 ```
+
+## Displaying and Manipulating Objects
+```powershell
+
+```
