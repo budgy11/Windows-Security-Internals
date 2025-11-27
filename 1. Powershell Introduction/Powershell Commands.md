@@ -88,4 +88,6 @@ Get-Process | Where-Object { $_.ProcessName -eq "explorer" } #same as above usin
 ```powershell
 Get-Process | Sort-Object Handles
 Get-Process | Sort-Object Handles -Descending
+Get-Process | Sort-Object Handles -Unique
 ```
+### Group-Object
