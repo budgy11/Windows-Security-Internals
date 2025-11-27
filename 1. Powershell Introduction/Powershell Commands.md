@@ -91,3 +91,9 @@ Get-Process | Sort-Object Handles -Descending
 Get-Process | Sort-Object Handles -Unique
 ```
 ### Group-Object
+- Groups objects based on property name
+```powershell
+Get-Process | Group-Object ProcessName
+```
+
+### All together
