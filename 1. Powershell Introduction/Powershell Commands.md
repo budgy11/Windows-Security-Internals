@@ -60,3 +60,6 @@ Get-Process | Get-Member -Type Method #Finds available methods to perform on obj
 Get-Process | Out-Host -Paging #Enables paging for longer output 
 Get-Process | Select-Object * | Out-GridView #output all columns to GUI Window
 ```
+
+## Filtering, Ordering, and Grouping Objects
+- `Where-Object` is aliased to `Where` and `?`
