@@ -79,6 +79,5 @@ Get-Process | Select-Object * | Out-GridView #output all columns to GUI Window
 Get-Process | Where-Object ProcessName -EQ "explorer"
 Get-Process | Where-Object { $_.ProcessName -eq "explorer" } #same as above using $_
 
-
 ```
-```
+-  `$_` is the current object in the pipeline
