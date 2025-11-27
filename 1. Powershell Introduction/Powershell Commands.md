@@ -74,3 +74,5 @@ Get-Process | Select-Object * | Out-GridView #output all columns to GUI Window
 | -NotLike  | Inverse of Like                           |
 | -GT       | Greater-than comparison                   |
 | -LT       | Less-than comparison                      |
+
+Get-Process | Where-Object ProcessName -EQ "explorer"
