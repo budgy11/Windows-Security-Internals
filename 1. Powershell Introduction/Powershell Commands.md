@@ -30,5 +30,6 @@ Get-Help Start-NtWait -Parameter Object
 Get-Help Start-NtWait -Examples
 Get-Help Start-NtWait -ShowWindow
 ```
+## Defining Functions
 
 
