@@ -51,5 +51,8 @@ $script = { Write-Output "Hello" }
 
 ## Displaying and Manipulating Objects
 ```powershell
+Get-Process #Running procs on the system
+Get-Process | Select-Object Id, ProcessName #filter output
+Get-Process | Format-List #Change formatter from table to list
 
 ```
