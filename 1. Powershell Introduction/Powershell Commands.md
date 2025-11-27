@@ -74,5 +74,11 @@ Get-Process | Select-Object * | Out-GridView #output all columns to GUI Window
 | -NotLike  | Inverse of Like                           |
 | -GT       | Greater-than comparison                   |
 | -LT       | Less-than comparison                      |
+```powershell
 
 Get-Process | Where-Object ProcessName -EQ "explorer"
+Get-Process | Where-Object { $_.ProcessName -eq "explorer" } #same as above using $_
+
+
+```
+```
