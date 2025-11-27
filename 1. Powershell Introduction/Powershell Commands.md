@@ -31,5 +31,16 @@ Get-Help Start-NtWait -Examples
 Get-Help Start-NtWait -ShowWindow
 ```
 ## Defining Functions
+```powershell
+function Get-NameValue {
+	param(
+		[string]$Name = "",
+		$Value
+	)
+	return "We've got $Name with value $Value"
+}
 
+Get-NameValue -Name "Hello" -Value "World"
+Get-NameValue "Hello" -Value "World"
+```
 
