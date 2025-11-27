@@ -62,7 +62,7 @@ Get-Process | Select-Object * | Out-GridView #output all columns to GUI Window
 ```
 
 ## Filtering, Ordering, and Grouping Objects
-### WS
+### Where-Object
 - `Where-Object` is used for filtering objects
 - `Where-Object` is aliased to `Where` and `?`
 
@@ -82,3 +82,10 @@ Get-Process | Where-Object ProcessName -EQ "explorer"
 Get-Process | Where-Object { $_.ProcessName -eq "explorer" } #same as above using $_
 ```
 -  `$_` is the current object in the pipeline
+
+### Sort-Object
+- `Sort-Object` is used to change how the objects are ordered
+```powershell
+Get-Process | Sort-Object Handles
+Get-Process | Sort-Object Handles -Descending
+```
