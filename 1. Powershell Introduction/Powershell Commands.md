@@ -54,5 +54,7 @@ $script = { Write-Output "Hello" }
 Get-Process #Running procs on the system
 Get-Process | Select-Object Id, ProcessName #filter output
 Get-Process | Format-List #Change formatter from table to list
+Get-Process | Get-Member -Type Property #Finds available properties
+Get-Process | Format-List * #Show all properties in list format
 
 ```
