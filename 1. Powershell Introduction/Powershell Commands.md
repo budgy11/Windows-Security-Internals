@@ -58,5 +58,5 @@ Get-Process | Get-Member -Type Property #Finds available properties
 Get-Process | Format-List * #Show all properties in list format
 Get-Process | Get-Member -Type Method #Finds available methods to perform on object
 Get-Process | Out-Host -Paging #Enables paging for longer output 
-
+Get-Process | Select-Object * | Out-GridView #output all columns to GUI Window
 ```
