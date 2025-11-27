@@ -20,7 +20,10 @@ Import-Module NtObjectManager
 ```
 
 ## Finding Commands
-
-
+```
+Get-Command -Module NtObjectManager -Name Start-*
+```
+## Help
+``
 
 
