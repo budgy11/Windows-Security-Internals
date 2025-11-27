@@ -8,10 +8,10 @@ Import-Module NtObjectManager
 ```
 - use a `` ` `` to escape characters i.e. `` `r `` or `` `"  ``
 ## Types
-|Type|.NET Type|Example|
-|----------|-------------|------------
-|array |System.Object[]|@(1, "abc",True) |
-|hashtable|System.Collections.Hashtable|@{A=1; B="ABC"} |
+| Type      | .NET Type                    | Example          |
+| --------- | ---------------------------- | ---------------- |
+| array     | System.Object[]              | @(1, "abc",True) |
+| hashtable | System.Collections.Hashtable | @{A=1; B="ABC"}  |
 
 ## Operators
 - `-f` is used as a string formatter
@@ -63,3 +63,10 @@ Get-Process | Select-Object * | Out-GridView #output all columns to GUI Window
 
 ## Filtering, Ordering, and Grouping Objects
 - `Where-Object` is aliased to `Where` and `?`
+
+| Operator  | Description                  |
+| --------- | ---------------------------- |
+| -EQ       | Equal to the value           |
+| -NE       | Not equal to the value       |
+| -Match    | Matches string against regex |
+| -NotMatch |                              |
