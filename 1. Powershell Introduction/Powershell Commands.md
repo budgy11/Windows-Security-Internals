@@ -20,10 +20,15 @@ Import-Module NtObjectManager
 ```
 
 ## Finding Commands
-```
+```powershell
 Get-Command -Module NtObjectManager -Name Start-*
 ```
 ## Help
-``
+```powershell
+Get-Help Start-NtWait
+Get-Help Start-NtWait -Parameter Object
+Get-Help Start-NtWait -Examples
+Get-Help Start-NtWait -ShowWindow
+```
 
 
