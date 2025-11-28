@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Windows Kernel/Windows Kernel Executive.md",
+                "file": "2. Windows Kernel/1.1 Windows Kernel Executive.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Windows Kernel Executive"
+              "title": "1.1 Windows Kernel Executive"
             }
           },
           {
@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Windows Kernel/Security Reference Monitor.md",
+                "file": "2. Windows Kernel/1.2 Security Reference Monitor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Security Reference Monitor"
+              "title": "1.2 Security Reference Monitor"
             }
           }
         ],
@@ -239,8 +239,8 @@
   },
   "active": "52aea0200eac5793",
   "lastOpenFiles": [
-    "2. Windows Kernel/Windows Kernel Executive.md",
-    "2. Windows Kernel/Security Reference Monitor.md",
+    "2. Windows Kernel/1.1 Windows Kernel Executive.md",
+    "2. Windows Kernel/1.2 Security Reference Monitor.md",
     "Assets",
     "Assets/Kernel_subsystems.png",
     "1. Powershell Introduction/Powershell Commands.md",
