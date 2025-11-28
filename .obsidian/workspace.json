@@ -62,9 +62,23 @@
               "icon": "lucide-file",
               "title": "1.2 Security Reference Monitor (SRM)"
             }
+          },
+          {
+            "id": "01ddeebb8072657d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Windows Kernel/1.2 Security Reference Monitor (SRM).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.2 Security Reference Monitor (SRM)"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -237,10 +251,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "52aea0200eac5793",
+  "active": "01ddeebb8072657d",
   "lastOpenFiles": [
-    "2. Windows Kernel/1.1 Windows Kernel Executive.md",
+    "2. Windows Kernel/1.3 Object Manager.md",
     "2. Windows Kernel/1.2 Security Reference Monitor (SRM).md",
+    "2. Windows Kernel/1.1 Windows Kernel Executive.md",
     "Assets",
     "Assets/Kernel_subsystems.png",
     "1. Powershell Introduction/Powershell Commands.md",
