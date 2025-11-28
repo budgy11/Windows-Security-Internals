@@ -1,1 +1,1 @@
-- 
+- Kernel decides what user is allowed to do
