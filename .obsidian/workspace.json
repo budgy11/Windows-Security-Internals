@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Windows Kernel/1.2 Security Reference Monitor (SRM).md",
+                "file": "2. Windows Kernel/2.2 Security Reference Monitor (SRM).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.2 Security Reference Monitor (SRM)"
+              "title": "2.2 Security Reference Monitor (SRM)"
             }
           },
           {
@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Windows Kernel/1.2 Security Reference Monitor (SRM).md",
+                "file": "2. Windows Kernel/2.3 Object Manager.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.2 Security Reference Monitor (SRM)"
+              "title": "2.3 Object Manager"
             }
           }
         ],
@@ -253,9 +253,9 @@
   },
   "active": "01ddeebb8072657d",
   "lastOpenFiles": [
-    "2. Windows Kernel/1.3 Object Manager.md",
-    "2. Windows Kernel/1.2 Security Reference Monitor (SRM).md",
-    "2. Windows Kernel/1.1 Windows Kernel Executive.md",
+    "2. Windows Kernel/2.2 Security Reference Monitor (SRM).md",
+    "2. Windows Kernel/2.1 Windows Kernel Executive.md",
+    "2. Windows Kernel/2.3 Object Manager.md",
     "Assets",
     "Assets/Kernel_subsystems.png",
     "1. Powershell Introduction/Powershell Commands.md",
