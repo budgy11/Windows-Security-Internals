@@ -77,8 +77,7 @@
               "title": "2.3 Object Manager"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -251,11 +250,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "766139f2438c3ec9",
+  "active": "275029a9864aa6c9",
   "lastOpenFiles": [
+    "2. Windows Kernel/2.3 Object Manager.md",
     "Assets/NT status code structure.png",
     "2. Windows Kernel/2.2 Security Reference Monitor (SRM).md",
-    "2. Windows Kernel/2.3 Object Manager.md",
     "2. Windows Kernel/2.1 Windows Kernel Executive.md",
     "Assets",
     "Assets/Kernel_subsystems.png",
