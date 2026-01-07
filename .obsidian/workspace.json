@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "275029a9864aa6c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Windows Kernel/2.3 Object Manager.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2.3 Object Manager"
-            }
-          },
-          {
             "id": "095557889870227b",
             "type": "leaf",
             "state": {
@@ -33,6 +19,20 @@
               },
               "icon": "lucide-file",
               "title": "Powershell Commands"
+            }
+          },
+          {
+            "id": "275029a9864aa6c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Windows Kernel/2.3 Object Manager.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.3 Object Manager"
             }
           },
           {
@@ -77,7 +77,8 @@
               "title": "2.3 Object Manager"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -253,6 +254,8 @@
   },
   "active": "275029a9864aa6c9",
   "lastOpenFiles": [
+    "1. Powershell Introduction/Powershell Commands.md",
+    "2. Windows Kernel/2.3 Object Manager.md",
     "Viewing process properties.png",
     "Get-NtObjectInformatin.png",
     "GetNtObjectInformationClass.png",
@@ -261,13 +264,11 @@
     "Assets/Access Mask Struct.png",
     "Assets/Handle Table Lookup.png",
     "README.md",
-    "2. Windows Kernel/2.3 Object Manager.md",
     "Assets/NT status code structure.png",
     "2. Windows Kernel/2.2 Security Reference Monitor (SRM).md",
     "2. Windows Kernel/2.1 Windows Kernel Executive.md",
     "Assets",
     "Assets/Kernel_subsystems.png",
-    "1. Powershell Introduction/Powershell Commands.md",
     "2. Windows Kernel",
     "1. Powershell Introduction"
   ]
