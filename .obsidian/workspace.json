@@ -252,8 +252,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "766139f2438c3ec9",
+  "active": "275029a9864aa6c9",
   "lastOpenFiles": [
+    "Opening Process by PID.png",
     "Assets/GetNtObjectInformationClass.png",
     "Assets/Viewing process properties.png",
     "Assets/Interacting with IO Manager.png",
@@ -266,7 +267,6 @@
     "1. Powershell Introduction/Powershell Commands.md",
     "Assets/SetInformation Process.png",
     "Assets/NtQueryInformationProcess.png",
-    "Assets/Access Mask Struct.png",
     "README.md",
     "2. Windows Kernel/2.2 Security Reference Monitor (SRM).md",
     "2. Windows Kernel/2.1 Windows Kernel Executive.md",
