@@ -8,48 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "095557889870227b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Powershell Introduction/Powershell Commands.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Powershell Commands"
-            }
-          },
-          {
-            "id": "275029a9864aa6c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Windows Kernel/2.3 Object Manager.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2.3 Object Manager"
-            }
-          },
-          {
-            "id": "52aea0200eac5793",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Windows Kernel/2.2 Security Reference Monitor (SRM).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2.2 Security Reference Monitor (SRM)"
-            }
-          },
-          {
             "id": "d48093dff07240f0",
             "type": "leaf",
             "state": {
@@ -62,23 +20,8 @@
               "icon": "lucide-file",
               "title": "2.9 Configuration Manager (registry)"
             }
-          },
-          {
-            "id": "01ddeebb8072657d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Windows Kernel/2.3 Object Manager.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2.3 Object Manager"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -254,11 +197,11 @@
   },
   "active": "d48093dff07240f0",
   "lastOpenFiles": [
+    "2. Windows Kernel/2.3 Object Manager.md",
+    "2. Windows Kernel/2.9 Configuration Manager (registry).md",
     "Open Key Object.png",
     "List registry.png",
     "2. Windows Kernel/2.7 Code Integrity.md",
-    "2. Windows Kernel/2.9 Configuration Manager (registry).md",
-    "2. Windows Kernel/2.3 Object Manager.md",
     "2. Windows Kernel/2.4 Input Output Manager (IO Manager).md",
     "2. Windows Kernel/2.5 Process and Thread Manager.md",
     "2. Windows Kernel/2.6 Memory Manager.md",
@@ -272,7 +215,6 @@
     "Assets/Interacting with IO Manager.png",
     "Assets/Kernel_subsystems.png",
     "Assets/Get-NtObjectInformatin.png",
-    "Assets/Getting list of processes and thread.png",
     "1. Powershell Introduction/Powershell Commands.md",
     "README.md",
     "2. Windows Kernel/2.1 Windows Kernel Executive.md",
