@@ -240,6 +240,7 @@
   },
   "active": "275029a9864aa6c9",
   "lastOpenFiles": [
+    "Creating and mapping a section object.png",
     "Creating a section and mapping it to memory.png",
     "2. Windows Kernel/2.3 Object Manager.md",
     "Opening Process by PID.png",
@@ -252,7 +253,6 @@
     "Assets/Listing Device Objects via OMNS.png",
     "Assets/KeyType InformationClassess.png",
     "1. Powershell Introduction/Powershell Commands.md",
-    "Assets/SetInformation Process.png",
     "README.md",
     "2. Windows Kernel/2.2 Security Reference Monitor (SRM).md",
     "2. Windows Kernel/2.1 Windows Kernel Executive.md",
