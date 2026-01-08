@@ -254,6 +254,7 @@
   },
   "active": "d48093dff07240f0",
   "lastOpenFiles": [
+    "Open Key Object.png",
     "List registry.png",
     "2. Windows Kernel/2.7 Code Integrity.md",
     "2. Windows Kernel/2.9 Configuration Manager (registry).md",
@@ -272,7 +273,6 @@
     "Assets/Kernel_subsystems.png",
     "Assets/Get-NtObjectInformatin.png",
     "Assets/Getting list of processes and thread.png",
-    "Assets/Listing Device Objects via OMNS.png",
     "1. Powershell Introduction/Powershell Commands.md",
     "README.md",
     "2. Windows Kernel/2.1 Windows Kernel Executive.md",
