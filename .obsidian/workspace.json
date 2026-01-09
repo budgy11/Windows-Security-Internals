@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Windows Kernel/Untitled.md",
+                "file": "2. Windows Kernel/2.10 Worked Examples.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "2.10 Worked Examples"
             }
           }
         ]
@@ -198,7 +198,7 @@
   "active": "d48093dff07240f0",
   "lastOpenFiles": [
     "2. Windows Kernel/2.9 Configuration Manager (registry).md",
-    "2. Windows Kernel/Untitled.md",
+    "2. Windows Kernel/2.10 Worked Examples.md",
     "2. Windows Kernel/2.3 Object Manager.md",
     "Open Key Object.png",
     "List registry.png",
