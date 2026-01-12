@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. User-Mode Applications/Untitled.md",
+                "file": "3. User-Mode Applications/Loading a New Library.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Loading a New Library"
             }
           }
         ],
@@ -210,10 +210,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "766139f2438c3ec9",
+  "active": "55568411eba8f03f",
   "lastOpenFiles": [
     "3. User-Mode Applications/Win32 and User-Mode Windows APIs.md",
-    "3. User-Mode Applications/Untitled.md",
+    "3. User-Mode Applications/Loading a New Library.md",
     "Win32 API.png",
     "2. Windows Kernel/2.3 Object Manager.md",
     "2. Windows Kernel/2.4 Input Output Manager (IO Manager).md",
