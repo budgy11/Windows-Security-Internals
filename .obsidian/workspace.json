@@ -226,9 +226,9 @@
   },
   "active": "331cbb0cf359535e",
   "lastOpenFiles": [
-    "Viewing Imported APIs on EXE.png",
     "3. User-Mode Applications/3.1 Win32 and User-Mode Windows APIs.md",
     "3. User-Mode Applications/3.3 Viewing Imported APIs.md",
+    "Viewing Imported APIs on EXE.png",
     "3. User-Mode Applications/3.2 Loading a New Library.md",
     "Loading and Finding the Address of Library.png",
     "Win32 API.png",
@@ -251,7 +251,6 @@
     "Opening Process by PID.png",
     "Assets/GetNtObjectInformationClass.png",
     "Assets/Viewing process properties.png",
-    "Assets/Interacting with IO Manager.png",
     "README.md",
     "Assets",
     "2. Windows Kernel",
