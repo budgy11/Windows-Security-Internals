@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. User-Mode Applications/3.3 Viewing Imported APIs.md",
+                "file": "3. User-Mode Applications/3.4 Searching for DLLs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.3 Viewing Imported APIs"
+              "title": "3.4 Searching for DLLs"
             }
           }
         ],
@@ -226,10 +226,11 @@
   },
   "active": "331cbb0cf359535e",
   "lastOpenFiles": [
+    "3. User-Mode Applications/3.3 Viewing Imported APIs.md",
+    "3. User-Mode Applications/3.4 Searching for DLLs.md",
     "Grouping Imports based on DLL.png",
     "Get Details on API Set.png",
     "3. User-Mode Applications/3.1 Win32 and User-Mode Windows APIs.md",
-    "3. User-Mode Applications/3.3 Viewing Imported APIs.md",
     "Viewing Imported APIs on EXE.png",
     "3. User-Mode Applications/3.2 Loading a New Library.md",
     "Loading and Finding the Address of Library.png",
@@ -251,7 +252,6 @@
     "Creating and mapping a section object.png",
     "Creating a section and mapping it to memory.png",
     "Opening Process by PID.png",
-    "Assets/GetNtObjectInformationClass.png",
     "README.md",
     "Assets",
     "2. Windows Kernel",
