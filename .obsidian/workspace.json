@@ -226,7 +226,8 @@
   },
   "active": "331cbb0cf359535e",
   "lastOpenFiles": [
-    "Pasted image 20260113145734.png",
+    "Grouping Imports based on DLL.png",
+    "Get Details on API Set.png",
     "3. User-Mode Applications/3.1 Win32 and User-Mode Windows APIs.md",
     "3. User-Mode Applications/3.3 Viewing Imported APIs.md",
     "Viewing Imported APIs on EXE.png",
@@ -251,7 +252,6 @@
     "Creating a section and mapping it to memory.png",
     "Opening Process by PID.png",
     "Assets/GetNtObjectInformationClass.png",
-    "Assets/Viewing process properties.png",
     "README.md",
     "Assets",
     "2. Windows Kernel",
