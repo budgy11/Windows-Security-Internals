@@ -39,6 +39,30 @@
             "id": "331cbb0cf359535e",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "Assets/Win32 API.png"
+              },
+              "icon": "lucide-image",
+              "title": "Win32 API"
+            }
+          },
+          {
+            "id": "5d601d13e525d87c",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Assets/Viewing Imported APIs on EXE.png"
+              },
+              "icon": "lucide-image",
+              "title": "Viewing Imported APIs on EXE"
+            }
+          },
+          {
+            "id": "21e20c7b01db2cbe",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "3. User-Mode Applications/3.4 Searching for DLLs.md",
@@ -50,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -224,17 +248,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "331cbb0cf359535e",
+  "active": "21e20c7b01db2cbe",
   "lastOpenFiles": [
-    "3. User-Mode Applications/3.3 Viewing Imported APIs.md",
+    "Assets/Viewing Imported APIs on EXE.png",
+    "Assets/Opening Process by PID.png",
+    "Assets/Win32 API.png",
     "3. User-Mode Applications/3.4 Searching for DLLs.md",
-    "Grouping Imports based on DLL.png",
-    "Get Details on API Set.png",
+    "3. User-Mode Applications/3.3 Viewing Imported APIs.md",
+    "Assets/Grouping Imports based on DLL.png",
+    "Assets/Get Details on API Set.png",
     "3. User-Mode Applications/3.1 Win32 and User-Mode Windows APIs.md",
-    "Viewing Imported APIs on EXE.png",
     "3. User-Mode Applications/3.2 Loading a New Library.md",
-    "Loading and Finding the Address of Library.png",
-    "Win32 API.png",
+    "Assets/Loading and Finding the Address of Library.png",
     "2. Windows Kernel/2.3 Object Manager.md",
     "2. Windows Kernel/2.4 Input Output Manager (IO Manager).md",
     "2. Windows Kernel/2.5 Process and Thread Manager.md",
@@ -246,12 +271,11 @@
     "2. Windows Kernel/2.1 Windows Kernel Executive.md",
     "1. Powershell Introduction/Powershell Commands.md",
     "3. User-Mode Applications",
-    "Open Key Object.png",
-    "List registry.png",
+    "Assets/Open Key Object.png",
+    "Assets/List registry.png",
     "2. Windows Kernel/2.2 Security Reference Monitor (SRM).md",
-    "Creating and mapping a section object.png",
-    "Creating a section and mapping it to memory.png",
-    "Opening Process by PID.png",
+    "Assets/Creating and mapping a section object.png",
+    "Assets/Creating a section and mapping it to memory.png",
     "README.md",
     "Assets",
     "2. Windows Kernel",
